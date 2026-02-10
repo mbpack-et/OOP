@@ -7,7 +7,7 @@ public class Student {
     public Student(String name, String id) {
         this.name = name;
         this.id = id;
-        this.yearOfStudy = 1; 
+        this.yearOfStudy = 2; 
     }
     
     

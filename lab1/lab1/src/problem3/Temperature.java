@@ -70,7 +70,7 @@ public class Temperature {
         Temperature t1 = new Temperature();
         Temperature t2 = new Temperature(100);
         Temperature t3 = new Temperature('F');
-        Temperature t4 = new Temperature(32, 'F');
+         Temperature t4 = new Temperature(32, 'F');
 
         System.out.println("t1 in C: " + t1.getCelsius());
         System.out.println("t2 in F: " + t2.getFahrenheit());
